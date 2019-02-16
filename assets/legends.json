@@ -1,0 +1,30 @@
+{
+    "Bloodhound": [
+      {
+        "thumb": "AssetImage(\"assets/images/bloodhound_thumb.png\")",
+        "image": "Image.asset(\"assets/images/bloodhound.jpg\", fit: BoxFit.cover,)",
+        "ability": [
+          {
+            "passive": [
+              {
+                "name": "Tracker",
+                "description": "See tracks left behind by your foes."
+              }
+            ],
+            "tactical": [
+              {
+                "name": "Eye of the Allfather",
+                "description": "Briefly reveal hidden enemies, traps, and clues throughout structures in front of you."
+              }
+            ],
+            "ultimate": [
+              {
+                "name": "Beast of the Hunt",
+                "description": "Enhances your senses, allowing you move faster and highlighting your prey."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
